@@ -1,6 +1,6 @@
 # Discord Token Server Checker
 
-This Node.js project checks whether the Discord tokens listed in `tokens.txt` are members of a specific server (e.g., `GIFLUNA`). It logs the tokens into `special.txt` if they are in the server, or `goods.txt` if they are not.
+This Node.js project checks whether the Discord tokens listed in `tokens.txt` are members of a specific server (e.g., `GIF GALAXY`). It logs the tokens into `special.txt` if they are in the server, or `goods.txt` if they are not.
 
 ## 🚀 Features
 
